@@ -16,6 +16,8 @@ Table of Contents
 	-	[Web](#web)
 	-	[Go in the real world](#go-in-the-real-world)
 -	[Command Line Utilities](#command-line-utilities)
+-	[Docker](#docker)
+	-	[Container registry](#container-registry)
 -	[Databases](#databases)
 	-	[MySQL](#mysql)
 
@@ -48,9 +50,17 @@ Command Line Utilities
 
 -	[mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. #osx
 
+Docker
+------
+
+##### Container registry
+
+-	[Harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution.
+
 Databases
 ---------
 
 ##### MySQL
 
 -	[Vitess](http://vitess.io/) - Vitess is a database clustering system for horizontal scaling of MySQL.
+-	[ProxySQL](http://proxysql.com/) - High-performance MySQL proxy with a GPL licens
