@@ -17,6 +17,7 @@ Table of Contents
 	-	[Libs](#libs)
 	-	[Go in the real world](#go-in-the-real-world)
 -	[Command Line Utilities](#command-line-utilities)
+-	[Terminals](#terminals)
 -	[Docker](#docker)
 	-	[Container registry](#container-registry)
 -	[Databases](#databases)
@@ -54,6 +55,13 @@ Command Line Utilities
 ----------------------
 
 -	[mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. #osx
+
+Terminals
+---------
+
+-	[iterm2](https://www.iterm2.com/) - macOS Terminal Replacement
+-	[hyper](https://hyper.is/) - JS/HTML/CSS Terminal
+	-	[Awesome Hyper](https://github.com/bnb/awesome-hyper) - Delightful Hyper plugins, themes, and resources
 
 Docker
 ------
