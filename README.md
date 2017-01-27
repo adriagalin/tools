@@ -14,6 +14,7 @@ Table of Contents
 	-	[Documentation](#documentation)
 	-	[Tutorials and workshops](#tutorials-and-workshops)
 	-	[Web](#web)
+	-	[Libs](#libs)
 	-	[Go in the real world](#go-in-the-real-world)
 -	[Command Line Utilities](#command-line-utilities)
 -	[Docker](#docker)
@@ -40,6 +41,10 @@ The Go programming language is an open source project to make programmers more p
 ##### Web
 
 -	[Gorilla web tookit](http://www.gorillatoolkit.org/) - Gorilla is a web toolkit for the Go programming language.
+
+##### Libs
+
+-	[gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 
 ##### Go in the real world
 
