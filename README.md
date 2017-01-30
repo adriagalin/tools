@@ -23,6 +23,8 @@ Table of Contents
 -	[Databases](#databases)
 	-	[MySQL](#mysql)
 -	[Markdown](#markdown)
+-	[Coworkings](#coworkings)
+	-	[Barcelona](#barcelona)
 
 Go
 --
@@ -83,3 +85,10 @@ Markdown
 --------
 
 -	[Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer
+
+Coworkings
+----------
+
+##### Barcelona
+
+-	[Pangea Coworking](http://www.pangeacoworking.com/)
