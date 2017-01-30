@@ -91,4 +91,5 @@ Coworkings
 
 ##### Barcelona
 
--	[Pangea Coworking](http://www.pangeacoworking.com/)
+-	[Pangea Coworking](http://www.pangeacoworking.com/) - Good prices.
+-	[Coworking Co.](http://www.siliconvalleybcn.com/) - Coworking a "lo americano".
