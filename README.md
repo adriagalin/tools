@@ -23,6 +23,8 @@ Table of Contents
 -	[Databases](#databases)
 	-	[MySQL](#mysql)
 -	[Markdown](#markdown)
+-	[Web pages](#web-pages)
+	-	[Performance tools](#performance-tools)
 -	[Coworkings](#coworkings)
 	-	[Barcelona](#barcelona)
 
@@ -85,6 +87,13 @@ Markdown
 --------
 
 -	[Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer
+
+Web pages
+---------
+
+##### Performance tools
+
+-	[Yahoo Best Practices](https://developer.yahoo.com/performance/) - Yahoo!'s Exceptional Performance team promotes best practices for improving web page performance.
 
 Coworkings
 ----------
