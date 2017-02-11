@@ -20,6 +20,7 @@ Table of Contents
 -	[Terminals](#terminals)
 -	[Docker](#docker)
 	-	[Container registry](#container-registry)
+-	[Monitoring](#monitoring)
 -	[Databases](#databases)
 	-	[MySQL](#mysql)
 -	[Markdown](#markdown)
@@ -78,6 +79,11 @@ Docker
 ##### Container registry
 
 -	[Harbor](https://github.com/vmware/harbor) - An enterprise-class container registry server based on Docker Distribution.
+
+Monitoring
+----------
+
+-	[mtail](https://github.com/google/mtail) - extract whitebox monitoring data from application logs for collection into a timeseries database
 
 Databases
 ---------
