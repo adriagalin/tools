@@ -18,6 +18,7 @@ Table of Contents
 	-	[Go in the real world](#go-in-the-real-world)
 -	[Command Line Utilities](#command-line-utilities)
 -	[Terminals](#terminals)
+-	[Realtime collaboration](realtime-collaboration)
 -	[Docker](#docker)
 	-	[Container registry](#container-registry)
 -	[Monitoring](#monitoring)
@@ -72,6 +73,11 @@ Terminals
 -	[iterm2](https://www.iterm2.com/) - macOS Terminal Replacement
 -	[hyper](https://hyper.is/) - JS/HTML/CSS Terminal
 	-	[Awesome Hyper](https://github.com/bnb/awesome-hyper) - Delightful Hyper plugins, themes, and resources
+
+Realtime collaboration
+----------------------
+
+-	[Floobits](https://floobits.com/) - Floobits brings real-time collaborative editing to text editors, IDEs, and now Atom.
 
 Docker
 ------
