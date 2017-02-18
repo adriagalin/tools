@@ -29,6 +29,7 @@ Table of Contents
 	-	[Performance tools](#performance-tools)
 -	[Coworkings](#coworkings)
 	-	[General](#general)
+	-	[Company retreats](#company-retreats)
 	-	[Barcelona](#barcelona)
 -	[Marketing tools](#marketing-tools)
 	-	[Sales management](#sales-management)
@@ -119,11 +120,19 @@ Coworkings
 ##### General
 
 -	[CoWorker](https://www.coworker.com/) - Are you coworking yet?
+-	[Workfrom](https://workfrom.co/) - Best Places to Work Remotely in a City
+-	[Outsite](http://outsite.co/) - Co-living in beautiful places.
+-	[Roam](https://www.roam.co/) - Roam is an international network of coliving spaces.
+
+##### Company retreats
+
+-	[Outsite](http://outsite.co/)
+-	[The surf office](https://www.thesurfoffice.com/)
+-	[Nomad Life](http://nomad.life/)
 
 ##### Barcelona
 
 -	[Pangea Coworking](http://www.pangeacoworking.com/) - Good prices.
--	[Coworking Co.](http://www.siliconvalleybcn.com/) - Coworking a "lo americano".
 
 Marketing tools
 ---------------
