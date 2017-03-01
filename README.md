@@ -82,7 +82,7 @@ Realtime collaboration
 ----------------------
 
 -	[Floobits](https://floobits.com/) - Floobits brings real-time collaborative editing to text editors, IDEs, and now Atom.
--	[mattermost](https://www.mattermost.com/) - Open source, private cloud Slack-alternative
+-	[mattermost](https://about.mattermost.com/) - Open source, private cloud Slack-alternative
 
 Protocols
 ---------
