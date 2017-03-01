@@ -68,6 +68,7 @@ Command Line Utilities
 ----------------------
 
 -	[mas](https://github.com/mas-cli/mas) - A CLI for the Mac App Store. #osx
+-	[httpie](https://github.com/jkbrzt/httpie) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
 Terminals
 ---------
