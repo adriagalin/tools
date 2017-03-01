@@ -59,6 +59,7 @@ The Go programming language is an open source project to make programmers more p
 ##### Libs
 
 -	[gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
+-	[cobra](https://github.com/spf13/cobra) - Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
 
 ##### Go in the real world
 
