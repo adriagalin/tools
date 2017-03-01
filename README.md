@@ -19,6 +19,7 @@ Table of Contents
 -	[Command Line Utilities](#command-line-utilities)
 -	[Terminals](#terminals)
 -	[Realtime collaboration](#realtime-collaboration)
+-	[Protocols](#protocols)
 -	[Docker](#docker)
 	-	[Container registry](#container-registry)
 -	[Monitoring](#monitoring)
@@ -82,6 +83,11 @@ Realtime collaboration
 ----------------------
 
 -	[Floobits](https://floobits.com/) - Floobits brings real-time collaborative editing to text editors, IDEs, and now Atom.
+
+Protocols
+---------
+
+-	[IPFS](http://ipfs.io/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 
 Docker
 ------
