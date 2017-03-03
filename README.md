@@ -12,6 +12,7 @@ Table of Contents
 
 -	[Go](#go)
 	-	[Documentation](#documentation)
+	-	[Environment](#environment)
 	-	[Tutorials and workshops](#tutorials-and-workshops)
 	-	[Web](#web)
 	-	[Libs](#libs)
@@ -45,6 +46,11 @@ The Go programming language is an open source project to make programmers more p
 
 -	[Go docs](https://golang.org/doc/)
 -	[Go wiki](https://github.com/golang/go/wiki)
+
+##### Environment
+
+- [Go development environment with atom editor](https://rominirani.com/setup-go-development-environment-with-atom-editor-a87a12366fcf#.he9xmejc5)
+- [Supercharging atom editor for go development](http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/)
 
 ##### Tutorials and workshops
 
