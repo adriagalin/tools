@@ -10,6 +10,7 @@ A curated list of awesome tools, libraries and software. Inspired by most of the
 Table of Contents
 -----------------
 
+- [Web](#web)
 -	[Go](#go)
 	-	[Documentation](#documentation)
 	-	[Environment](#environment)
@@ -36,6 +37,11 @@ Table of Contents
 -	[Marketing tools](#marketing-tools)
 	-	[Sales management](#sales-management)
 -	[Mobile](#mobile)
+
+Web
+--
+
+- [Web Fundamentals](https://developers.google.com/web/fundamentals/) - Learn How to Develop the Next Generation of Applications for the Web by Google. 
 
 Go
 --
