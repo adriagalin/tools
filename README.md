@@ -153,6 +153,10 @@ Coworkings
 ##### Barcelona
 
 -	[Pangea Coworking](http://www.pangeacoworking.com/) - Good prices.
+-	[Garden Coworking Atelier](http://www.gardencoworkingatelier.com)
+-	[La Colecta](http://lacolecta.es/)
+-	[Coffice Barcelona](http://cofficebarcelona.com/)
+-	[Atico Barcelona](http://aticcobarcelona.com)
 
 Marketing tools
 ---------------
