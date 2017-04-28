@@ -41,7 +41,7 @@ Table of Contents
 Web
 --
 
-- [Web Fundamentals](https://developers.google.com/web/fundamentals/) - Learn How to Develop the Next Generation of Applications for the Web by Google. 
+- [Web Fundamentals](https://developers.google.com/web/fundamentals/) - Learn How to Develop the Next Generation of Applications for the Web by Google.
 
 Go
 --
@@ -153,6 +153,7 @@ Coworkings
 
 ##### Barcelona
 
+- [List of coworking spaces](http://barcelonanavigator.com/barcelona-co-working-spaces/)
 -	[Pangea Coworking](http://www.pangeacoworking.com/) - Good prices.
 -	[Garden Coworking Atelier](http://www.gardencoworkingatelier.com)
 -	[La Colecta](http://lacolecta.es/)
