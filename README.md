@@ -36,6 +36,7 @@ Table of Contents
 	-	[Barcelona](#barcelona)
 -	[Marketing tools](#marketing-tools)
 	-	[Sales management](#sales-management)
+	- [Email marketing](#email-marketing)
 -	[Mobile](#mobile)
 
 Web
@@ -166,6 +167,10 @@ Marketing tools
 ##### Sales management
 
 -	[Drift](http://www.drift.com/) - Sales communication platform.
+
+##### Email marketing
+
+- [ConvertKit](https://convertkit.com/) - Email marketing for professional bloggers
 
 Mobile
 ------
