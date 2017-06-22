@@ -27,6 +27,7 @@ Table of Contents
 -	[Monitoring](#monitoring)
 -	[Databases](#databases)
 	-	[MySQL](#mysql)
+- [Localization](#localization)
 -	[Markdown](#markdown)
 -	[Web pages](#web-pages)
 	-	[Performance tools](#performance-tools)
@@ -38,8 +39,12 @@ Table of Contents
 	-	[Sales management](#sales-management)
 	- [Email marketing](#email-marketing)
 -	[Mobile](#mobile)
-- [Continuous Integration](#continous-integration)
 - [Documentation](#documentation)
+- [Devops tools](#devops-tools)
+	- [Continuous Integration](#continous-integration)
+	- [Service mesh](#service-mesh)
+	- [Kubernetes](#kubernetes)
+- [Dev tools](#dev-tools)
 
 Web
 --
@@ -99,6 +104,7 @@ Realtime collaboration
 
 -	[Floobits](https://floobits.com/) - Floobits brings real-time collaborative editing to text editors, IDEs, and now Atom.
 -	[mattermost](https://about.mattermost.com/) - Open source, private cloud Slack-alternative
+-	[warp](https://github.com/spolu/warp) - warp lets you securely share your terminal with one simple command: warp open.
 
 Protocols
 ---------
@@ -124,6 +130,16 @@ Databases
 
 -	[Vitess](http://vitess.io/) - Vitess is a database clustering system for horizontal scaling of MySQL.
 -	[ProxySQL](http://proxysql.com/) - High-performance MySQL proxy with a GPL licens
+
+Localization
+--------
+
+-	[transifex](https://www.transifex.com/) - Agile, Open, Continuously Localized, Cloud-Based Translation Management for the Industry’s Fastest-Moving Companies.
+-	[Locale](https://www.localeapp.com/) - Easy localization for Rails apps.
+-	[lokalise](https://lokalise.co/) - Translate your apps and web the modern way. Automating localization and translation workflow for software developers.
+-	[crowdin](https://crowdin.com/) - The most powerful Localization Management Platform for mobile, web & desktop apps, games & help desks.
+
+https://crowdin.com/
 
 Markdown
 --------
@@ -179,12 +195,33 @@ Mobile
 
 -	[Fastlane](https://github.com/fastlane/fastlane) - The easiest way to automate building and releasing your iOS and Android apps
 
-Continuous Integration
-----------------------
-
--	[Concourse](https://concourse.ci/) - CI that scales with your project.
-
 Documentation
 -------------
 
 -	[Docsify](https://docsify.js.org) - A magical documentation site generator.
+
+Devops tools
+------------
+
+##### Continuous Integration
+
+-	[Concourse](https://concourse.ci/) - CI that scales with your project.
+- [Screwdriver](http://screwdriver.cd/) - Is an open source build platform designed for Continuous Delivery.
+
+##### Service mesh
+
+[So what even is a Service Mesh? Hot take on Istio and Linkerd](http://redmonk.com/jgovernor/2017/05/31/so-what-even-is-a-service-mesh-hot-take-on-istio-and-linkerd/)
+
+- [istio](https://istio.io/) - Istio is an open platform that provides a uniform way to connect, manage, and secure microservices. Istio supports managing traffic flows between microservices, enforcing access policies, and aggregating telemetry data, all without requiring changes to the microservice code.
+	- [Canary deployments](https://istio.io/blog/canary-deployments-using-istio.html)
+- [linkerd](https://linkerd.io/) - linker∙d is a transparent proxy that adds service discovery, routing, failure handling, and visibility to modern software applications
+
+##### Kubernetes
+
+-	[Kubernetes](https://kubernetes.io/) - CI that scales with your project.
+-	[Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
+
+Dev tools
+------------
+
+-	[Standup](https://getstandup.com/) - Standup automatically processes data from your source control and project management software to deliver daily engineering progress reports.
