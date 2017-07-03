@@ -71,6 +71,7 @@ The Go programming language is an open source project to make programmers more p
 ##### Tutorials and workshops
 
 -	[Go web workshop](https://github.com/campoy/go-web-workshop) - Build Web Applications with Go on App Engine
+-	[Go tooling workshop](https://github.com/campoy/go-tooling-workshop) - A workshop covering all the tools gophers use in their day to day life
 -	[Golang groups](https://github.com/campoy/golang-groups) - List of Go user groups, meetups, and similar.
 -	[Go with Peter Bourgon](https://howistart.org/posts/go/1)
 
