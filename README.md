@@ -12,7 +12,7 @@ Table of Contents
 
 - [Web](#web)
 -	[Go](#go)
-	-	[Documentation](#documentation)
+	-	[Documentation](#go-documentation)
 	-	[Environment](#environment)
 	-	[Tutorials and workshops](#tutorials-and-workshops)
 	-	[Web](#web)
@@ -56,12 +56,10 @@ Go
 
 The Go programming language is an open source project to make programmers more productive.
 
-##### Documentation
+##### Go documentation
 
 -	[Go docs](https://golang.org/doc/)
 -	[Go wiki](https://github.com/golang/go/wiki)
-- [Slate](https://github.com/lord/slate)
-- [API Blueprint](https://apiblueprint.org/)
 
 ##### Environment
 
@@ -203,6 +201,8 @@ Documentation
 -------------
 
 -	[Docsify](https://docsify.js.org) - A magical documentation site generator.
+- [Slate](https://github.com/lord/slate)
+- [API Blueprint](https://apiblueprint.org/)
 
 Devops tools
 ------------
