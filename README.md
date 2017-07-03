@@ -60,6 +60,8 @@ The Go programming language is an open source project to make programmers more p
 
 -	[Go docs](https://golang.org/doc/)
 -	[Go wiki](https://github.com/golang/go/wiki)
+- [Slate](https://github.com/lord/slate)
+- [API Blueprint](https://apiblueprint.org/)
 
 ##### Environment
 
