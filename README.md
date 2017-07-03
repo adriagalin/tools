@@ -83,6 +83,7 @@ The Go programming language is an open source project to make programmers more p
 -	[gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 -	[cobra](https://github.com/spf13/cobra) - Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
 -	[camlistore](https://camlistore.org/) - Camlistore is your personal storage system for life.
+- [jsoniter](http://jsoniter.com/migrate-from-go-std.html) - Fastest JSON parser ever
 
 ##### Go in the real world
 
