@@ -18,7 +18,7 @@ Table of Contents
 	-	[Web](#web)
 	-	[Libs](#libs)
 	-	[Go in the real world](#go-in-the-real-world)
-	- [Go slides](#go-articles-and-slides)
+	- [Go articles and slides](#go-articles-and-slides)
 -	[Command Line Utilities](#command-line-utilities)
 -	[Terminals](#terminals)
 -	[Realtime collaboration](#realtime-collaboration)
