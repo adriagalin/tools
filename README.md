@@ -18,7 +18,7 @@ Table of Contents
 	-	[Web](#web)
 	-	[Libs](#libs)
 	-	[Go in the real world](#go-in-the-real-world)
-	- [Go slides](#go-slides)
+	- [Go slides](#go-articles-and-slides)
 -	[Command Line Utilities](#command-line-utilities)
 -	[Terminals](#terminals)
 -	[Realtime collaboration](#realtime-collaboration)
@@ -89,10 +89,13 @@ The Go programming language is an open source project to make programmers more p
 
 -	[SuccessStories](https://github.com/golang/go/wiki/SuccessStories) - Go success stories from around the web
 
-##### Go slides
+##### Go articles and slides
 
 -	[Why every gopher should be a data scientist.](http://divan.github.io//talks/2017/06bcn/why_every_gopher_should_be_a_data_scientist.pdf)
+-	[Generating good unique ids in Go](https://blog.kowalczyk.info/article/JyRZ/generating-good-random-and-unique-ids-in-go.html)
 
+
+https://blog.kowalczyk.info/article/JyRZ/generating-good-random-and-unique-ids-in-go.html
 
 Command Line Utilities
 ----------------------
