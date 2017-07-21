@@ -234,6 +234,7 @@ Devops tools
 
 -	[Kubernetes](https://kubernetes.io/) - CI that scales with your project.
 -	[Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
+- [Reshifter](http://reshifter.info/) - A cluster admin backup and restore tool for Kubernetes distros such as OpenShift.
 
 Dev tools
 ------------
