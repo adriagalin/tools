@@ -86,6 +86,7 @@ The Go programming language is an open source project to make programmers more p
 -	[camlistore](https://camlistore.org/) - Camlistore is your personal storage system for life.
 - [jsoniter](http://jsoniter.com/migrate-from-go-std.html) - Fastest JSON parser ever
 - [goxc](https://github.com/laher/goxc) - a build tool for Go, with a focus on cross-compiling, packaging and deployment
+- [go-erd](https://github.com/gmarik/go-erd) - Go-ERD (Entity Relationship Diagrams) for Golang with Graphviz
 
 ##### Go in the real world
 
