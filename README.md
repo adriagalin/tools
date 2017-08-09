@@ -45,6 +45,7 @@ Table of Contents
 	- [Continuous Integration](#continous-integration)
 	- [Service mesh](#service-mesh)
 	- [Kubernetes](#kubernetes)
+	- [AWS](#aws)
 - [Dev tools](#dev-tools)
 - [Testing](#testing)
 
@@ -237,6 +238,10 @@ Devops tools
 -	[Kubernetes](https://kubernetes.io/) - CI that scales with your project.
 -	[Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
 - [Reshifter](http://reshifter.info/) - A cluster admin backup and restore tool for Kubernetes distros such as OpenShift.
+
+##### AWS
+
+- [localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 
 Dev tools
 ------------
