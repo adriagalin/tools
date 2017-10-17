@@ -239,6 +239,8 @@ Devops tools
 -	[Draft](https://github.com/Azure/draft) - A tool for developers to create cloud-native applications on Kubernetes.
 - [Reshifter](http://reshifter.info/) - A cluster admin backup and restore tool for Kubernetes distros such as OpenShift.
 - [Kapitan](https://github.com/deepmind/kapitan) - A tool to manage kubernetes configuration using jsonnet templates.
+- [Tamark](https://github.com/jetstack/tarmak) - Tarmak is a toolkit for Kubernetes cluster provisioning and management.
+- [Kops](https://github.com/kubernetes/kops) - Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.
 
 ##### AWS
 
